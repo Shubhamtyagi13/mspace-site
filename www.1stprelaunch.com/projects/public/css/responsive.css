@@ -1,0 +1,211 @@
+@media (min-width:992px) and (max-width:1199px) {
+.primary-navigation a {padding: 20px 10px;}
+.achievement-innr{width: 100%;}
+.business-opp .col-sm-3{width: 25%;}
+.achievement-innr_amenities
+{
+	Width:50%;
+}
+}
+
+@media (max-width:991px){
+.logo{width: 100%;text-align: center;}
+.logo img {width: auto;}
+.site-navigation {margin-top: 80px;}
+.primary-navigation{float: none;}
+.menu-menu-1-container{text-align: center;}
+.primary-navigation li{padding: 0;}
+.menu-toggle{margin-top:58px;}
+.masthead-fixed .site-main {margin-top: 170px;}
+.achievement-innr {float: none;margin: 0 auto;width: 60%;}
+.business-opp .col-sm-3{width: 100%;}
+
+.footer-block{width:50%; border-left:0;}
+.footer-block:first-child{padding-left: inherit;}
+.footer-bottom{text-align:center;}
+ul.social-icons{float:none;}
+.footer-bottom p.copy{padding:0 0 15px;}
+.achievement-innr_amenities
+{
+	Width:50%;
+}
+}
+
+@media (max-width:768px){
+.btn-new{font-size: 16px;display: block;padding: 10px;margin: 20px;}
+.top-bar .container, .top-bar .col-sm-3, .top-bar .col-sm-9{margin: 0;padding: 0;width: 100%;}
+.top-bar .contact-details{padding:5px 0 0 15px;}
+.top-nav{float:none; padding:0 0 0 10px;}
+.top-nav li{margin: 10px 1px;}
+.menu-toggle {margin-top: 76px;}
+.header-main.affix {margin:-12% 0 0;}
+.header-main .container{padding-left: 0;padding-right: 0;}
+.header-main.affix .menu-toggle {margin-top: 28px;}
+.masthead-fixed .site-main {margin-top: 0;}
+.site-navigation {margin-top: 0;}
+.logo {text-align: left;}
+.logo img {width: auto;}
+.primary-navigation li{padding: 0;text-align: left;}
+.primary-navigation a {padding: 10px;}
+.primary-navigation ul ul{box-shadow:none;margin-left: 0;border-top: 1px solid #e4e4e4;	width: 100%;}
+.primary-navigation li li {padding-left: 20px;padding-right: 20px;}
+section.about{padding: 50px 0;}
+.about .col-sm-6{width: 100%;margin-left: 0;}
+.customer-feedback {width: 100%;margin-top: 50px;float: left;}
+.achievement-innr {width:100%;}
+.business-opp{padding: 50px 0;}
+.business-opp .container p {width: 100%;}
+.business-opp-innr {margin-top: 50px;}
+.our-products .wpcolumns{width: 100%;}
+.our-products .recent-post-slider.design-4 .medium-5 {padding: 0;}
+.our-goal, .appreciation{width: 100%;}
+
+ul.clients-logos-list li{width:40%;}
+
+ul.clients-logos-list li:before, ul.clients-logos-list li:after, ul.clients-logos-list li.no-border:before, 
+ul.clients-logos-list li.no-border:after, ul.clients-logos-list li.no-border-top:after, ul.clients-logos-list li.no-border-left:before{background:transparent;}
+.achievement-innr_amenities
+{
+	Width:100%;
+}
+}
+
+@media (max-width:500px){
+.container-fluid{padding:0;}
+.navbar-toggle{margin-top:3px; background:#fff; border-radius:0; margin-bottom:21px; margin-right:1px;}
+.navbar-toggle .icon-bar{background:#003f70;}
+.header-main{padding:10px 15px;height:70px;}
+.header-main.affix {margin:-42% 0 0;}
+.logo{position: relative; width:65%; z-index:99;}
+.logo img{/*width: 75%;*/ padding-left:10px;}
+.menu-toggle{margin-top:66px;}
+.recent-post-slider.design-4 .post-image-bg{height: 180px !important;}
+.navbar{right:0; width:100%; position:absolute;}
+.navbar-collapse{background:#fff; border-top:1px solid #ddd; margin:0 !important; width:100%;}
+.navbar-nav{margin:0;}
+.our-clients .owl-carousel .owl-item img{margin:0 auto}
+.gallery-photo-list li a img{padding:10px 0 0;}
+.footer-block{width: 100%; min-height:auto; padding:30px 20px 10px;}
+.achievement-innr h2{padding:20px; font-weight:bold; font-size:20px;}
+ul.clients-logos-list li{width:100%;}
+.achievement-innr_amenities
+{
+	Width:100%;
+}
+
+}
+@media (max-width:380px){
+.logo img{width:80%;}
+.navbar-toggle{margin-top:3px;}
+.testimonial-container{padding:0; border:0;}
+ul.partner-testimonial-listing li h4{padding-top:20px;}
+.achievement-innr_amenities
+{
+	Width:100%;
+}
+}
+
+
+/* CSS Start */
+
+
+
+@media (max-width:800px){
+.achievement-innr_amenities
+{
+	Width:50%;
+}
+.header-main.affix {margin:1% 0 0;}
+.box appreciation
+{
+   Width:50%;	
+}
+}
+@media (max-width:1024px){
+.achievement-innr_amenities
+{
+	Width:50%;
+}
+}
+@media (max-width:360px){
+.achievement-innr_amenities
+{
+	Width:100%;
+}
+.header-main.affix {margin:-45% 0 0;}
+}
+@media (max-width:384px){
+.achievement-innr_amenities
+{
+	Width:100%;
+}
+}
+@media (max-width:375px){
+.achievement-innr_amenities
+{
+	Width:100%;
+}
+.header-main.affix {margin:-40% 0 0;}
+}
+
+@media (max-width:600px){
+.achievement-innr_amenities
+{
+	Width:100%;
+}
+}
+@media (max-width:750px){
+.achievement-innr_amenities
+{
+	Width:100%;
+}
+.header-main.affix {margin:-12% 0 0;}
+}
+
+@media (max-width:1280px){
+.achievement-innr_amenities
+{
+	Width:100%;
+}
+.box_amenities
+{
+	Width:100%;
+}
+}
+
+@media (min-width:1024px)
+{
+.left-sidebar_call{bottom:70%;}
+.left-sidebar_home{bottom:352px;}
+.left-sidebar_call4{bottom:64%; }
+.left-sidebar_call5{bottom:53%; }
+.left-sidebar_call6{bottom:47.5%;}
+.right-sidebar_call{bottom: 38%;}
+.left-sidebar_call8{bottom:58.5%; }
+
+}
+
+
+@media (max-width:1366px)
+{
+.left-sidebar_call{bottom:70%;}
+.left-sidebar_home{bottom:352px;}
+.left-sidebar_call4{bottom:64%; }
+.left-sidebar_call5{bottom:53%; }
+.left-sidebar_call6{bottom:47.5%;}
+.right-sidebar_call{bottom:35%;}
+.left-sidebar_call8{bottom:58.5%; }
+
+}
+@media (max-width:1440px)
+{
+.left-sidebar_call{bottom:70%;}
+.left-sidebar_home{bottom:352px;}
+.left-sidebar_call4{bottom:64%; }
+.left-sidebar_call5{bottom:53%; }
+.left-sidebar_call6{bottom:47.5%;}
+.right-sidebar_call{bottom:35%;}
+.left-sidebar_call8{bottom:58.5%; }
+}
+
+/*CSS End */

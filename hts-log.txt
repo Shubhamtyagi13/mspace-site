@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 28 Jul 2019 18:39:54 at https://www.1stprelaunch.com/projects/omkar-alta-monte-malad +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.1stprelaunch.com/projects/omkar-alta-monte-malad -O1 "C:\My Web Sites\New" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:39:56	Warning: 	Note: due to https://www.1stprelaunch.com remote robots.txt rules, links beginning with these path will be forbidden: /nri-services.php, /inc/privacy.php, /PMAY-SUBSIDY.php, /Harbour_mumbai/load_more, /Central_mumbai/load_more, /pages/get_other_property_load, /Pages/newsletter, /Western_mumbai/load_more, /Central_mumbai/get_property, /Western_mumbai/get_property, /pages/get_other_property, /projects/lodha-global-park/, /ariisto-mulund/public/js/ (see in the options to disable this)
+18:40:22	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.1stprelaunch.com/projects/index.php/pages/chat (from https://www.1stprelaunch.com/projects/omkar-alta-monte-malad)
+18:40:34	Error: 	"Not Found" (404) at link https://www.1stprelaunch.com/projects/omkar-alta-monte-malad/public/images/iconf.png (from https://www.1stprelaunch.com/projects/omkar-alta-monte-malad/video)
+18:40:34	Error: 	"Not Found" (404) at link https://www.1stprelaunch.com/projects/omkar-alta-monte-malad/public/images/iconi.png (from https://www.1stprelaunch.com/projects/omkar-alta-monte-malad/video)
+18:40:34	Error: 	"Not Found" (404) at link https://www.1stprelaunch.com/projects/omkar-alta-monte-malad/public/images/iconp.png (from https://www.1stprelaunch.com/projects/omkar-alta-monte-malad/video)
+18:40:34	Error: 	"Not Found" (404) at link https://www.1stprelaunch.com/projects/omkar-alta-monte-malad/public/images/iconyou.png (from https://www.1stprelaunch.com/projects/omkar-alta-monte-malad/video)
+18:40:38	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.1stprelaunch.com/projects/index.php/pages/chat (from https://www.1stprelaunch.com/projects/omkar-alta-monte-malad)
+18:40:40	Error: 	"Not Found" (404) at link https://www.1stprelaunch.com/projects/images/www.1stprelaunch.com/projects/images/arrow-small-left.png (from https://www.1stprelaunch.com/projects/images/arrow-small-left.png)
+18:40:40	Error: 	"Not Found" (404) at link https://www.1stprelaunch.com/projects/images/www.1stprelaunch.com/projects/images/arrow-small-right.png (from https://www.1stprelaunch.com/projects/images/arrow-small-right.png)
+18:40:40	Error: 	"Not Found" (404) at link https://www.1stprelaunch.com/projects/images/www.1stprelaunch.com/projects/images/btn-plus.png (from https://www.1stprelaunch.com/projects/images/btn-plus.png)
+18:40:40	Error: 	"Not Found" (404) at link https://www.1stprelaunch.com/projects/images/www.1stprelaunch.com/projects/images/arrow-right.png (from https://www.1stprelaunch.com/projects/images/arrow-right.png)
+18:40:40	Error: 	"Not Found" (404) at link https://www.1stprelaunch.com/projects/images/www.1stprelaunch.com/projects/images/arrow-left.png (from https://www.1stprelaunch.com/projects/images/arrow-left.png)
+18:40:40	Error: 	"Not Found" (404) at link https://www.1stprelaunch.com/projects/images/www.1stprelaunch.com/projects/images/left-arrow.png (from https://www.1stprelaunch.com/projects/images/left-arrow.png)
+18:40:40	Error: 	"Not Found" (404) at link https://www.1stprelaunch.com/projects/images/www.1stprelaunch.com/projects/images/blockquote-top.png (from https://www.1stprelaunch.com/projects/images/blockquote-top.png)
+18:40:40	Error: 	"Not Found" (404) at link https://www.1stprelaunch.com/projects/images/www.1stprelaunch.com/projects/images/blockquote-bottom.png (from https://www.1stprelaunch.com/projects/images/blockquote-bottom.png)
+18:40:40	Error: 	"Not Found" (404) at link https://www.1stprelaunch.com/projects/images/www.1stprelaunch.com/projects/images/right-arrow.png (from https://www.1stprelaunch.com/projects/images/right-arrow.png)
+18:40:40	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.1stprelaunch.com/projects/index.php/pages/chat (from https://www.1stprelaunch.com/projects/omkar-alta-monte-malad)
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 seconds : 92 links scanned, 75 files written (4120872 bytes overall) [4175481 bytes received at 90771 bytes/sec], 13.1 requests per connection
+(14 errors, 3 warnings, 0 messages)
